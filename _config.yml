@@ -16,7 +16,7 @@ style:
 
 # This will help you track who's visiting your website.
 tracking:
-  google_analytics: "UA-43729070-14"
+  google_analytics: "UA-86516596-1"
 
 # Let people connect & engage with you through social media.
 social:
@@ -51,8 +51,8 @@ event:
 
   about:
     description: >
-      Calgary Hacks is a hackathon hosted by the University of Calgary.
-      The theme of this hackathon is connectivity, and there are some awesome things we have in store for you. Form teams of up to four. Happy Hacking!
+      Calgary Hacks is a hackathon hosted by the University of Calgary's Computer Science Undergraduate Society.
+      Students in teams of up to five will be able to work with the latest technologies to build amazing projects. Happy Hacking!
 
   # Info Sections
   info:
