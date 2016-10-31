@@ -12,6 +12,7 @@
 
 /*
  * Primary Blue: #44D5FF;
+ * Dark Red: #82000F;
  * Dark Blue: #0F2C34;
  * Primary Pink: #FF7FA8;
  */
@@ -22,7 +23,7 @@
 }
 
 body {
-  background-color: #0F2C34;
+  background-color: #82000F;
 }
 
 section {
