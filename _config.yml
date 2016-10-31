@@ -25,7 +25,7 @@ social:
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
   title:       "CalgaryHacks | 21/22 February 2017"
-  description: "CalgaryHacks: Calgarian "
+  description: "CalgaryHacks: Calgary's First MLH Event"
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
