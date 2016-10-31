@@ -30,7 +30,7 @@ seo:
 
 # Event information.
 event:
-  name:        "Calgary Hacks"
+  name:        "CalgaryHacks"
   description: "Hack this February at the University of Calgary"
   date:        "21 & 22 February 2017"
   location:    "Calgary, Alberta, Canada"
@@ -51,7 +51,7 @@ event:
 
   about:
     description: >
-      Calgary Hacks is a hackathon hosted by the University of Calgary's Computer Science Undergraduate Society.
+      CalgaryHacks is a hackathon hosted by the University of Calgary's Computer Science Undergraduate Society.
       Students in teams of up to five will be able to work with the latest technologies to build amazing projects. Happy Hacking!
 
   # Info Sections
