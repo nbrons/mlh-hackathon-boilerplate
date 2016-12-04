@@ -43,9 +43,9 @@ event:
   hero:
     links:
       - text: "Register"
-        href: "https://www.eventbrite.com/e/calgayhacks-2017-tickets-29723027375"
+        href: "https://www.eventbrite.com/e/calgaryhacks-2017-tickets-29957618042"
       - text: "Sponsor"
-        href: "mailto:ngbrons@ucalgary.ca"
+        href: "mailto:csus@ucalgary.ca"
 
   about:
     description: >
