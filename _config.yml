@@ -81,6 +81,10 @@ event:
       answer: >
         Yes. Only students who are currently enrolled at a college/university or
         have graduated within the past 12 months are eligible to attend.
+    - question: "Will there be reimbursements for travel or shelter?"
+      answer: >
+        Unforunately at this time we will not be providing reimbursements for travel or hotel. 
+        Students coming from other cities will be required to make their own travel plans.
     - question: "Where is the event?"
       answer: >
         The event is being hosted at the University of Calgary, in the ICT and Math Sciences Building.
