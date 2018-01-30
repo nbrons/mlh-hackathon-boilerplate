@@ -98,6 +98,9 @@ event:
     - question: "Is there a code of conduct?"
       answer: >
         Yes there is. We enforce it very strongly. You can [find it here](https://static.mlh.io/docs/mlh-code-of-conduct.pdf).
+    - question: "So what if I don't want to participate, but I still want to get involved somehow?"
+      answer: >
+        We're always looking for some volunteers to help us with the event! If you're interested, please feel out this form: https://goo.gl/forms/lQyk2icnT1vEIOXo2
 
   # This is the message you'll receive once you've registered.
   register:
