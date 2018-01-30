@@ -88,6 +88,9 @@ event:
     - question: "Where is the event?"
       answer: >
         The event is being hosted at the University of Calgary, in the ICT and Math Sciences Building.
+    - question: "What if I don't have a team?"
+      answer: >
+        That's okay, you aren't the only one! Teams aren't officially formed until day-of, so you'll still have a chance to meet others and form a team!
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
