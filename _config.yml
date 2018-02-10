@@ -42,15 +42,16 @@ event:
 
   hero:
     links:
-      - text: "Registration has now ended"
+      #- text: "Registration"
         # href: "https://www.eventbrite.com/e/calgaryhacks-2018-tickets-40722391770"
-      - text: "Sponsor"
-        href: "mailto:csus@ucalgary.ca"
+      #- text: "Sponsor"
+       # href: "mailto:csus@ucalgary.ca"
 
   about:
     description: >
       CalgaryHacks is a hackathon organized by hackathon founders Emily Chow and Nick Brons, and staffed by volunteers from the University of Calgary's Computer Science Undergraduate Society.
       Students in teams of up to five will be able to work with the latest technologies to build amazing projects. Happy Hacking!
+      *Registration for CalgaryHacks 2018 has ended*
 
   # Info Sections
   info:
