@@ -42,8 +42,8 @@ event:
 
   hero:
     links:
-      - text: "Register"
-        href: "https://www.eventbrite.com/e/calgaryhacks-2018-tickets-40722391770"
+      - text: "Registration has now ended"
+        # href: "https://www.eventbrite.com/e/calgaryhacks-2018-tickets-40722391770"
       - text: "Sponsor"
         href: "mailto:csus@ucalgary.ca"
 
